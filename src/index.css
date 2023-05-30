@@ -1,0 +1,57 @@
+header {
+  background-color: rgb(228, 149, 149);
+  height: 30mm;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+img{
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+  height: 500px;
+}
+
+.image{
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+  height: 300px;
+}
+
+footer{
+  background-color: #292b2c  ;
+  color: aliceblue;
+  height: 60mm;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.bomba{
+  height: 10mm;
+  background-color: rgb(228, 149, 149);
+}
+
+.txtsobre{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-left: 50mm;
+  margin-right: 50mm;
+  margin-top: 10mm;
+  text-align: center;
+}
+
+.cartao{
+width: 30%;
+height: 30%;
+}
+
+.linha{
+  background-color: rgb(228, 149, 149);
+}
